@@ -1,0 +1,9 @@
+⚫ Which of the above 1. - 6. operations are implicit casts? 
+2
+⚫ Which of the operations in 1.- 6. above are explicit casts?
+3
+⚫ Why can an object reference of type Point refer to an object of type MovingPoint? 
+Because MovingPoint is a subclass of Point. So, any MovingPoint object is also Point object, and can be treated as such.
+⚫ In operation 3., can we assign o2 to o3 without casting and why?
+No
+Reason: This is because o2 was declared as a Point reference, and o3 was declared as a MovingPoint reference. Since not all Point objects are MovingPoint objects, you must cast.

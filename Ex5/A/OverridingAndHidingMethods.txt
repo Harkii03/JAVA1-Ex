@@ -1,0 +1,9 @@
+・Which method overrides a method in the superclass?
+ MethodTwo
+
+・Which method hides a method in the superclass?
+ MethodFour 
+
+・What do the other methods do?
+ Compiling this code including Methodone and Methodthree will result in a compilation error. 
+

@@ -1,0 +1,2 @@
+When you assign a variable to another variable, you may actually be assigning the memory address of the same object. 
+Therefore, changing the value of one variable may also change the value of the other variable, if they both refer to the same object in memory.

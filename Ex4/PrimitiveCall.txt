@@ -1,0 +1,2 @@
+X value and y value are local varoables of movePrint, so these values don't reflected.
+If we use class or array, we can reflect from movePrint method to test method.

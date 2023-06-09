@@ -1,0 +1,2 @@
+This is because the == operator compares the references of the objects, not their contents.
+In this case, p1 an p2 are different objects with different reference values, even though they have the same x and y values.

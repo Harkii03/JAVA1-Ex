@@ -1,0 +1,19 @@
+1. Why does the program print the two lines below?
+(2) Exception occured
+(2) in finally clause
+
+Reason:
+When count variable is reached to 2, Exceptio throws. In this code, as using try-catch sentence, process throws catch sentence if exception is occured in try sentence.
+As finally block is always executed, "(2)Exception occure" and "(2)in finally clause" is printed.
+
+
+2. Why does the program print the line below?
+(3) in finnaly clause
+Reason:
+In this code, if count equals 3, break is executed. But, finnaly block is always executed. So, the above sentente is printed.
+
+3. Why does the program print the ine below?
+ Main program ends
+
+Reason:
+The process that in the part of this code has no connection with try-catch, finnaly block. So, this poroces is executed.

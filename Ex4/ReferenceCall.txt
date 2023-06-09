@@ -1,0 +1,7 @@
+In first process, test method is involked, then point is created by Point class.
+Next, By movePoint method, x value of p and y of value is stored 100 and 120 respectively.
+From former process, x value and y value are setted and getted, finally, x value and y value are printted.
+
+In Second process, x value and y value is stored after set x and y value, but stored value is another object.
+So, as a result, x and y value is not reflected.
+

@@ -1,0 +1,19 @@
+• Can you design inherited classes?
+yes
+• You have two classes: Point and MovingPoint. Which one should be a base class?
+Point method
+• How many fields does the Point have?
+2
+• How many fields does the MovingPoint have?
+4
+• How many methods does the Point have?
+2
+• How many methods does the MovingPoint have?
+4
+• What are the advantages that the solution to Problem C has over the solution to Problem B?
+There are 3 advantages, as far as I know. First, by using inheritance, reusability of code is increased. So, it also reduce the amount of code. 
+Second, enhanced extensibility. By using inheritance, the functionality and behavior defined in the base class in the new class.
+Third, increased diversity. Inheritance allows you to create classes for different purposes. Thus, there are many advantage by using inheritance.
+• Can you execute the following operation at the end of TestObjectApplication? And why?
+yes.
+Reason: P1, p2, m1, m2 is just separate instance. And m1 instance can use getDistance method because it is inherited. Thus, this code do not occur compiler error.
